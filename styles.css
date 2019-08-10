@@ -168,6 +168,13 @@ padding: 4% 0;
 color: rgb(85, 87, 85);
 }
 
+footer {
+    font-size: 1.2em;
+    font-family: 'Oswald';
+    text-align: center;
+    padding-bottom: 3%;
+}
+
 @media only screen and (min-width: 100px) and (max-width: 900px){
  
     .container {
